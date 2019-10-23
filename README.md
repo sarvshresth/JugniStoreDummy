@@ -1,0 +1,2 @@
+# JugniStoreDummy
+GitHub Pages
